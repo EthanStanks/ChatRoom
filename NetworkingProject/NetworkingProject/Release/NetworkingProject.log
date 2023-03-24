@@ -1,0 +1,17 @@
+﻿  Server.cpp
+F:\School\CNE\Labs\Project\NetworkingProject\NetworkingProject\Server.cpp(122,24): warning C4018: '<': signed/unsigned mismatch
+F:\School\CNE\Labs\Project\NetworkingProject\NetworkingProject\Server.cpp(129,25): warning C4018: '<': signed/unsigned mismatch
+F:\School\CNE\Labs\Project\NetworkingProject\NetworkingProject\Server.cpp(228,20): warning C4018: '<': signed/unsigned mismatch
+F:\School\CNE\Labs\Project\NetworkingProject\NetworkingProject\Server.cpp(241,20): warning C4018: '<': signed/unsigned mismatch
+F:\School\CNE\Labs\Project\NetworkingProject\NetworkingProject\Server.cpp(379,20): warning C4018: '<': signed/unsigned mismatch
+F:\School\CNE\Labs\Project\NetworkingProject\NetworkingProject\Server.cpp(711,20): warning C4018: '<': signed/unsigned mismatch
+F:\School\CNE\Labs\Project\NetworkingProject\NetworkingProject\Server.cpp(712,20): warning C4018: '<': signed/unsigned mismatch
+F:\School\CNE\Labs\Project\NetworkingProject\NetworkingProject\Server.cpp(822,22): warning C4018: '<': signed/unsigned mismatch
+F:\School\CNE\Labs\Project\NetworkingProject\NetworkingProject\Server.cpp(841,22): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating code
+  2 of 522 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  NetworkingProject.vcxproj -> F:\School\CNE\Labs\Project\NetworkingProject\Release\NetworkingProject.exe
