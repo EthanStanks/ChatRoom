@@ -1,4 +1,3 @@
-# ChatRoom
 <h1>Winsock Networking Chat Room</h1>
 This is a chat room project developed using the Winsock API, featuring a client/server architecture with support for both TCP and UDP protocols. The server uses a non-blocking multiplexed TCP socket and broadcasts TCP information using UDP every second. The client connects to the server through TCP after receiving the UDP broadcast. Additionally, the client is multithreaded, with the TCP receiver running on a detached thread and the TCP sender running on the main thread.
 
